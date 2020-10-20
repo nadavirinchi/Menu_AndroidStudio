@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/settings"
+    android:title="Settings for this Menu"> </item>
+    <item android:id="@+id/settings1"
+        android:title="Settings1 for this Menu"> </item>
+    <item android:id="@+id/settings2"
+        android:title="Settings2 for this Menu"> </item>
+</menu>
